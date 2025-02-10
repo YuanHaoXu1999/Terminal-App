@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "An open-world action RPG set in a richly detailed medieval fantasy world.",
+    "age": 5,
+    "isActive": true,
+    "releaseDate": "2015-05-19",
+    "imageUrl": "https://example.com/images/witcher3.jpg",
+    "genre": "RPG",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "developer": {
+      "id": 101,
+      "name": "CD Projekt Red",
+      "country": "Poland",
+      "establishedYear": 2002,
+      "website": "https://www.cdprojekt.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Minecraft",
+    "description": "A sandbox game that allows players to build and explore pixelated worlds.",
+    "age": 12,
+    "isActive": true,
+    "releaseDate": "2011-11-18",
+    "imageUrl": "https://example.com/images/minecraft.jpg",
+    "genre": "Sandbox",
+    "platforms": ["PC", "PS5", "Xbox", "Switch"],
+    "developer": {
+      "id": 102,
+      "name": "Mojang Studios",
+      "country": "Sweden",
+      "establishedYear": 2009,
+      "website": "https://www.mojang.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Fortnite",
+    "description": "A battle royale game where players fight to be the last one standing.",
+    "age": 6,
+    "isActive": true,
+    "releaseDate": "2017-07-25",
+    "imageUrl": "https://example.com/images/fortnite.jpg",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PS4", "Xbox", "Mobile"],
+    "developer": {
+      "id": 103,
+      "name": "Epic Games",
+      "country": "USA",
+      "establishedYear": 1991,
+      "website": "https://www.epicgames.com"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Overwatch",
+    "description": "A team-based multiplayer first-person shooter game with a diverse cast of heroes.",
+    "age": 5,
+    "isActive": true,
+    "releaseDate": "2016-05-24",
+    "imageUrl": "https://example.com/images/overwatch.jpg",
+    "genre": "FPS",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "developer": {
+      "id": 104,
+      "name": "Blizzard Entertainment",
+      "country": "USA",
+      "establishedYear": 1991,
+      "website": "https://www.blizzard.com"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Call of Duty: Warzone",
+    "description": "A free-to-play battle royale game set in the Call of Duty universe.",
+    "age": 4,
+    "isActive": true,
+    "releaseDate": "2020-03-10",
+    "imageUrl": "https://example.com/images/warzone.jpg",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "developer": {
+      "id": 105,
+      "name": "Infinity Ward",
+      "country": "USA",
+      "establishedYear": 2003,
+      "website": "https://www.infinityward.com"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Red Dead Redemption 2",
+    "description": "An open-world action-adventure game set in the American Wild West.",
+    "age": 3,
+    "isActive": true,
+    "releaseDate": "2018-10-26",
+    "imageUrl": "https://example.com/images/rdr2.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "developer": {
+      "id": 106,
+      "name": "Rockstar Games",
+      "country": "USA",
+      "establishedYear": 1998,
+      "website": "https://www.rockstargames.com"
+    }
+  },
+  {
+    "id": 7,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "An open-world action-adventure game in which players explore a massive kingdom to save Princess Zelda.",
+    "age": 4,
+    "isActive": true,
+    "releaseDate": "2017-03-03",
+    "imageUrl": "https://example.com/images/zelda.jpg",
+    "genre": "Action-Adventure",
+    "platforms": ["Switch"],
+    "developer": {
+      "id": 107,
+      "name": "Nintendo",
+      "country": "Japan",
+      "establishedYear": 1889,
+      "website": "https://www.nintendo.com"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Cyberpunk 2077",
+    "description": "An open-world RPG set in a dystopian future where players can explore a cyberpunk city.",
+    "age": 2,
+    "isActive": true,
+    "releaseDate": "2020-12-10",
+    "imageUrl": "https://example.com/images/cyberpunk2077.jpg",
+    "genre": "RPG",
+    "platforms": ["PC", "PS5", "Xbox Series X"],
+    "developer": {
+      "id": 108,
+      "name": "CD Projekt Red",
+      "country": "Poland",
+      "establishedYear": 2002,
+      "website": "https://www.cdprojekt.com"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Apex Legends",
+    "description": "A free-to-play battle royale game where players fight in teams to be the last squad standing.",
+    "age": 5,
+    "isActive": true,
+    "releaseDate": "2019-02-04",
+    "imageUrl": "https://example.com/images/apexlegends.jpg",
+    "genre": "Battle Royale",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "developer": {
+      "id": 109,
+      "name": "Respawn Entertainment",
+      "country": "USA",
+      "establishedYear": 2010,
+      "website": "https://www.respawn.com"
+    }
+  },
+  {
+    "id": 10,
+    "name": "League of Legends",
+    "description": "A multiplayer online battle arena game where players compete in teams to destroy the enemy's Nexus.",
+    "age": 15,
+    "isActive": true,
+    "releaseDate": "2009-10-27",
+    "imageUrl": "https://example.com/images/leagueoflegends.jpg",
+    "genre": "MOBA",
+    "platforms": ["PC"],
+    "developer": {
+      "id": 110,
+      "name": "Riot Games",
+      "country": "USA",
+      "establishedYear": 2006,
+      "website": "https://www.riotgames.com"
+    }
+  }
+]
